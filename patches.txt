@@ -1,4 +1,14 @@
 # EXCLUDE PATCHES FROM BELOW. DO NOT REMOVE THIS LINE
-
-# INCLUDE PATCHES FROM BELOW. DO NOT REMOVE THIS LINE
 premium-heading
+# INCLUDE PATCHES FROM BELOW. DO NOT REMOVE THIS LINE
+sponsorblock
+custom-branding
+hide-shorts-button
+return-youtube-dislike
+hide-shorts-button
+hide-watermark
+microg-support
+settings
+remember-video-quality
+video-ads
+general-ads
