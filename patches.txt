@@ -1,6 +1,5 @@
 # EXCLUDE PATCHES FROM BELOW. DO NOT REMOVE THIS LINE
 premium-heading
-custom-branding
 # INCLUDE PATCHES FROM BELOW. DO NOT REMOVE THIS LINE
 sponsorblock
 hide-shorts-button
@@ -12,3 +11,4 @@ settings
 remember-video-quality
 video-ads
 general-ads
+custom-branding
